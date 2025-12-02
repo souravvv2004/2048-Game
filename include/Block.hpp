@@ -6,8 +6,8 @@
  * on the 2048 game board. Each block tracks its value, screen position,
  * animation state, and merge information for smooth visual transitions.
  *
- * @author Original Author
- * @date 2024
+ * @author Tarundeep Singh and Saurabh Madan
+ * @date November 2025
  * @version 1.0
  */
 

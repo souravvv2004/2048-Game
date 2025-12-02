@@ -7,8 +7,8 @@
  * architecture with separation between game logic (Game2048) and
  * rendering (Renderer2048).
  *
- * @author Original Author
- * @date 2024
+ * @author Tarundeep Singh and Saurabh Madan
+ * @date November 2025
  * @version 1.0
  *
  * @par Build Instructions:

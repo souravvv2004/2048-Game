@@ -7,8 +7,8 @@
  * The game uses a 4×4 grid where players slide tiles to combine matching
  * numbers and reach the 2048 tile.
  *
- * @author Original Author
- * @date 2024
+ * @author Tarundeep Singh and Saurabh Madan
+ * @date November 2025
  * @version 1.0
  *
  * @par Game Rules:
