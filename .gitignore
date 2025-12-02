@@ -13,3 +13,5 @@ game
 # OS files
 .DS_Store
 Thumbs.db
+# CodeQL temp files
+_codeql_detected_source_root
