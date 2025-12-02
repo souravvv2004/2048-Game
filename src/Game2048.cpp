@@ -8,8 +8,8 @@
  * - Merging tiles in any direction using board rotation
  * - Helper functions for sliding and merging tile arrays
  *
- * @author Original Author
- * @date 2024
+ * @author Tarundeep Singh and Saurabh Madan
+ * @date November 2025
  * @version 1.0
  *
  * @par Algorithm Overview:

@@ -9,8 +9,8 @@
  * - Drawing the game board background
  * - Rendering tiles with slide and fade animations
  *
- * @author Original Author
- * @date 2024
+ * @author Tarundeep Singh and Saurabh Madan
+ * @date November 2025
  * @version 1.0
  *
  * @par Dependencies:

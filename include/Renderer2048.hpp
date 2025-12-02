@@ -6,8 +6,8 @@
  * of the 2048 game including window initialization, drawing the game board,
  * rendering tiles with animations, and processing user input.
  *
- * @author Original Author
- * @date 2024
+ * @author Tarundeep Singh and Saurabh Madan
+ * @date November 2025
  * @version 1.0
  *
  * @par Dependencies:
